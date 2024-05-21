@@ -2,6 +2,8 @@
 
 A to-do list is a list of items that need to be completed. The items on the list can range from simple activities like replying to an email, to more complex tasks like creating project briefs.
 
+See the website : [Ma To Do Liste](https://to-do-list-gamma-mocha.vercel.app/)
+
 
 ## Install Vite 
 
@@ -20,7 +22,7 @@ Don't import react each time:
 crt schift P -> usersetting -> setting.json , edit : 
  "reactSnippets.settings.importReactOnTop": false, (false au lieu de true)
 
-`rfc + tab` pour créer un composant 
+`rfc + tab` to create a component 
 
 
 ## Install Tailwindcss (v. 3.4.3)
